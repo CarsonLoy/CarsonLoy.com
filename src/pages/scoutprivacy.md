@@ -136,5 +136,3 @@ We may update this policy as the app or its data practices change. We will updat
 **Carson Loy — /scout**
 
 **Email:** [privacy@carsonloy.com](mailto:privacy@carsonloy.com)
-
-[Home](../)
