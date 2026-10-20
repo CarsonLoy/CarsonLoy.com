@@ -2,8 +2,8 @@ import { unified } from "@astrojs/markdown-remark";
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://carsonloy.github.io",
-  base: "/CarsonLoy.com",
+  site: "https://carsonloy.com",
+  base: "/",
   output: "static",
   trailingSlash: "always",
   markdown: {
