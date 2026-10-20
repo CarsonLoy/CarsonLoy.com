@@ -9,7 +9,7 @@ title: /scout Privacy Policy | Carson Loy
 
 /scout is a robotics scouting and match-prediction app maintained by Carson Loy for use by FRC Team 5817. In this policy, “we,” “us,” and “our” refer to the app's operator. This policy explains how information is collected, used, shared, and retained when you use the app or contact us about it.
 
-For privacy questions or requests, email **[privacy@carsonloy.com](mailto:privacy@carsonloy.com)**.
+For privacy questions or requests, email **[sscoutprivacy@carsonloy.com](mailto:sscoutprivacy@carsonloy.com)**.
 
 ## Information we collect
 
@@ -103,7 +103,7 @@ To request scouting-entry removal when deleting your account, select **“Delete
 
 **We will manually remove the requested scouting entries from the active app database, team-managed Google Sheets, and team-managed exports within 30 days of your request.** If you leave the checkbox unchecked, your existing scouting entries, including your displayed name, remain available to the team.
 
-You can also email **[privacy@carsonloy.com](mailto:privacy@carsonloy.com)** to request removal of scouting entries or personal information remaining in shared predictions, schedules, assignments, or other records. You do not need an active account to make a request. We may ask for information needed to verify which account or records belong to you. Please do not send your password or a password-reset link.
+You can also email **[sscoutprivacy@carsonloy.com](mailto:sscoutprivacy@carsonloy.com)** to request removal of scouting entries or personal information remaining in shared predictions, schedules, assignments, or other records. You do not need an active account to make a request. We may ask for information needed to verify which account or records belong to you. Please do not send your password or a password-reset link.
 
 ### Records that can remain
 
@@ -115,11 +115,11 @@ The 30-day scouting-removal period applies to the active systems and team-manage
 
 You can change available preferences in Settings, choose what optional notes to submit, manage pending cached entries, stop using the app, and request account or data deletion.
 
-Depending on where you live, you may also have rights to access or receive a copy of personal information, correct inaccurate information, request deletion, or object to or restrict certain uses. Contact **[privacy@carsonloy.com](mailto:privacy@carsonloy.com)** to make a request. We respond subject to applicable law and the need to verify the requester's identity. Where applicable, you may raise a concern with your local data-protection authority.
+Depending on where you live, you may also have rights to access or receive a copy of personal information, correct inaccurate information, request deletion, or object to or restrict certain uses. Contact **[sscoutprivacy@carsonloy.com](mailto:sscoutprivacy@carsonloy.com)** to make a request. We respond subject to applicable law and the need to verify the requester's identity. Where applicable, you may raise a concern with your local data-protection authority.
 
 ## Students and children
 
-The app is intended for robotics team members and mentors, including teenage students. It is not directed to children under 13, and we do not knowingly collect personal information from children under 13. If a parent or guardian believes a child under 13 has provided personal information, contact **[privacy@carsonloy.com](mailto:privacy@carsonloy.com)** so we can investigate and arrange removal.
+The app is intended for robotics team members and mentors, including teenage students. It is not directed to children under 13, and we do not knowingly collect personal information from children under 13. If a parent or guardian believes a child under 13 has provided personal information, contact **[sscoutprivacy@carsonloy.com](mailto:sscoutprivacy@carsonloy.com)** so we can investigate and arrange removal.
 
 ## Security and processing locations
 
@@ -135,4 +135,4 @@ We may update this policy as the app or its data practices change. We will updat
 
 **Carson Loy — /scout**
 
-**Email:** [privacy@carsonloy.com](mailto:privacy@carsonloy.com)
+**Email:** [sscoutprivacy@carsonloy.com](mailto:sscoutprivacy@carsonloy.com)
